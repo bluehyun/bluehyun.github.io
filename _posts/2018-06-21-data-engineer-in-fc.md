@@ -10,7 +10,7 @@ comments: true
 
 ## python
 
-* NumPy , Pandas 는 머신러닝에서 많이 사용되므로 알아둘 필요가 있다
+* NumPy , Pandas 는 머신러닝에서 많이 사용되므로 알아둘 필요가 있다!!!!!!!
 * pySpark 실습
 * TensorFlow 실습
 * zepplin 으로 pySpark 실습
